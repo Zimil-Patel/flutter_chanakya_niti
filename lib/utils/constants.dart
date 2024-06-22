@@ -1,3 +1,7 @@
-late final double height, width;
+import 'dart:ui';
 
-const defaultPadding = 10;
+late double height, width;
+
+const double defaultPadding = 10;
+
+const primaryColor = Color(0xff2f437b);
